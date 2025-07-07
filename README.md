@@ -73,5 +73,5 @@ En concreto, se busca responder:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/PyLearningHub.git
-   cd PyLearningHub
+   git clone https://github.com/JonathanVasquezP/PreEntrega_Coder.git
+   cd PreEntrega_Coder
